@@ -4,5 +4,4 @@ import android.view.View;
 
 public abstract class BasePresenter<T extends BaseActivity>{
     protected T view;
-
 }
